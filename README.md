@@ -1,0 +1,2 @@
+# geoLocatorTests
+getLocator app tests
